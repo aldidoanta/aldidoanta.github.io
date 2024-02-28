@@ -1,7 +1,20 @@
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-    <channel>
-        <title>Tags - Tag - Aldi Doanta</title>
-        <link>https://aldidoanta.github.io/tags/</link>
-        <description>Tags - Tag - Aldi Doanta</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://aldidoanta.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Aldi Doanta Kurnia</title>
+    <link>https://aldidoanta.github.io/tags/</link>
+    <description>Recent content in Tags on Aldi Doanta Kurnia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Feb 2021 01:39:36 +0700</lastBuildDate><atom:link href="https://aldidoanta.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>General</title>
+      <link>https://aldidoanta.github.io/tags/general/</link>
+      <pubDate>Mon, 01 Feb 2021 01:39:36 +0700</pubDate>
+      
+      <guid>https://aldidoanta.github.io/tags/general/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
 </rss>
